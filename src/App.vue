@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/klaus-logo.svg" alt="" style="width:250px">
+            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2882/klaus_roofing_systems_of_knoxville.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Klaus Roofing Systems
+                    &copy;2020 Klaus Roofing Systems by Master Services
                 </p>
             </div>
         </div>
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #ff0000;
+  color: #e1251b;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 26px;
