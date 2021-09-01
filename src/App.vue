@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Klaus Roofing Systems of Indiana 
+                    &copy;2020 Klaus Roofing Systems Nashville 
                 </p>
             </div>
         </div>
