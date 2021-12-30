@@ -108,6 +108,7 @@
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a>
+                    <a href="https://g.page/r/CcsEtFcvLobSEBA?we" target="_blank" style="border: 0px; text-decoration: none;"><img width="25" height="25" src="https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" style="border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"></a>
                   </td>
                 </tr>
               </table>
